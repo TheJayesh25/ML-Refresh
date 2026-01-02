@@ -62,6 +62,12 @@ ml-foundations-refresh/
 │       ├──sonar.all-data.csv
 │   ├── README.md
 │
+├── 04-Support-vector-machines/
+│   ├── SVM.ipynb
+│   ├── DATA/
+│       ├──wine_fraud.csv
+│   ├── README.md
+│
 └── README.md
 ```
 
