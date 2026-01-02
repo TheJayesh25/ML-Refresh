@@ -42,12 +42,25 @@ ml-foundations-refresh/
 ├── 01-linear-regression/
 │   ├── feature_engineering.ipynb
 │   ├── linear_regression_elastic_net.ipynb
+│   ├── DATA/
+│       ├──AMES_Final_DF.csv
+│       ├──Ames_Housing_Data.csv
+│       ├── Ames_NO_Missing_Data.csv
+│       ├── Ames_outliers_removed.csv
+│       ├── Ames_Housing_Feature_Description.txt
 │   ├── README.md
 │
 ├── 02-logistic-regression/
-│   └── (coming soon)
+│   ├── logistic_regression.ipynb
+│   ├── DATA/
+│       ├──heart.csv
+│   ├── README.md
 │
-├── (coming soon)
+├── 03-k-nearest-neighbors (knn)/
+│   ├── knn.ipynb
+│   ├── DATA/
+│       ├──sonar.all-data.csv
+│   ├── README.md
 │
 └── README.md
 ```
