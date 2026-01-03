@@ -68,6 +68,10 @@ ml-foundations-refresh/
 │       ├──wine_fraud.csv
 │   ├── README.md
 │
+├── Capstone Project 1: model-comparison-under-constraints/
+│   ├── credit_card_fraud_comparison.ipynb
+│   └── README.md
+│
 └── README.md
 ```
 
