@@ -17,6 +17,12 @@ The feature set consists of PCA-transformed numerical variables, with no access 
 
 ---
 
+## DATA
+
+Find the data here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud/data
+
+---
+
 ## Constraints
 
 The following constraints were intentionally enforced:
